@@ -1,6 +1,6 @@
-package selisih_array;
+package selisih_genap_array;
 
-public class Selisih_array {
+public class Selisih_genap_array {
 
     public static void main(String[] args) {
       int[] data = 

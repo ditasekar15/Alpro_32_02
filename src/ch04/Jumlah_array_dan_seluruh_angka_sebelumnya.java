@@ -1,6 +1,6 @@
-package jumlah_array;
+package jumlah_array_dan_seluruh_angka_sebelumnya;
 
-public class Jumlah_array {
+public class Jumlah_array_dan_seluruh_angka_sebelumnya {
 
     public static void main(String[] args) {
       int[] data = 
